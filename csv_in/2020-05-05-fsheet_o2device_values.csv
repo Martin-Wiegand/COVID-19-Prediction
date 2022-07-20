@@ -1,0 +1,18 @@
+measured_value,ventilation
+None (Room air),spont_ventilation
+Mechanically ventilated,mechanical_ventilation
+Nasal cannula,spont_ventilation
+Venturi Mask,spont_ventilation
+Non-rebreather mask,spont_ventilation
+CPAP,niv
+T-Piece,spont_ventilation
+Humidified mask (heated),spont_ventilation
+Simple mask,spont_ventilation
+Swedish nose,spont_ventilation
+Tracheostomy Mask,spont_ventilation
+High flow nasal cannula,spont_ventilation
+Bi-PAP,niv
+Other (Comment),
+Humidified mask(cold),spont_ventilation
+Headbox,spont_ventilation
+Nasal highflow,spont_ventilation

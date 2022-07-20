@@ -1,0 +1,27 @@
+,meas_value,mechanical_ventilation
+1,PS / CPAP,yes
+2,Self Vent.,no
+3,SIMV (PC)+PS,yes
+4,SIMV (PRVC)+PS,yes
+5,VC / AC,yes
+6,SIMV (VC)+PS,yes
+7,CPAP,yes
+8,NIV PS,yes
+9,APRV,yes
+10,SIMV / PRVC,yes
+11,HFOV,yes
+12,SIMV / PC,yes
+13,SIMV,yes
+14,PC,yes
+15,PRVC,yes
+16,VS,yes
+17,PC / AC,yes
+18,PRVC / AC,yes
+19,SIMV / VC,yes
+20,VC,yes
+21,SIPPV,yes
+22,CMV,yes
+23,NIV PC,yes
+24,PS,yes
+25,SIMV VG,yes
+26,Tube compensation,yes

@@ -1,0 +1,27 @@
+measured_value,mechanical_ventilation,type_of_vent_mode
+PS / CPAP,yes,cpap_ps
+Self Vent.,no,spont
+SIMV (PC)+PS,yes,PC
+SIMV (PRVC)+PS,yes,simv_prvc_ps
+VC / AC,yes,VC
+SIMV (VC)+PS,yes,VC
+CPAP,yes,spont
+NIV PS,no,spont
+APRV,yes,PC
+SIMV / PRVC,yes,PC
+HFOV,no,spont
+SIMV / PC,yes,PC
+SIMV,yes,PC
+PC,yes,PC
+PRVC,yes,PC
+VS,yes,VC
+PC / AC,yes,PC
+PRVC / AC,yes,PC
+SIMV / VC,yes,VC
+VC,yes,VC
+SIPPV,yes,PC
+CMV,yes,VC
+NIV PC,no,spont
+PS,yes,cpap_ps
+SIMV VG,yes,VC
+Tube compensation,yes,spont

@@ -1,0 +1,18 @@
+,.,Freq,,Notes
+1,Bi-PAP,253,N/A,Would expect FiO2 to be documented rather than O2 flow
+2,CPAP,1203,N/A,Would expect FiO2 to be documented rather than O2 flow
+3,Headbox,10,,Ignore
+4,High flow nasal cannula,322,N/A,Would expect FiO2 to be documented rather than O2 flow
+5,Humidified mask (heated),949,Mask,
+6,Humidified mask(cold),42,Mask,
+7,Mechanically ventilated,26951,Ventilation,Should all have FiO2
+8,Nasal cannula,14754,Cannula,
+9,Nasal highflow,10,N/A,Would expect FiO2 to be documented rather than O2 flow
+10,Non-rebreather mask,995,Mask with reservoir,
+11,None (Room air),35942,N/A,FiO2 = 0.21
+12,Other (Comment),82,N/A,Ignore
+13,Simple mask,222,Mask,Probably with O2 flow rate
+14,Swedish nose,341,N/A,Would expect FiO2 to be documented rather than O2 flow
+15,T-Piece,2848,N/A,Would expect FiO2 to be documented rather than O2 flow
+16,Tracheostomy Mask,423,N/A,Would expect FiO2 to be documented rather than O2 flow
+17,Venturi Mask,6031,Mask,"Would expect FiO2 to be documented rather than O2 flow, If not then there is an exact conversion available for this - in email"
